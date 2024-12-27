@@ -11,8 +11,8 @@ export const MusicData = [
           releaseYear: 2013,
           genre: "Romantic",
           duration: "04:22",
-          url: "src/data/songs/tum_hi_ho.mp3",
-          posterUrl: "src/data/images/tum_hi_ho.jpg",
+          url: "./src/data/songs/tum_hi_ho.mp3",
+          posterUrl: "./src/data/images/tum_hi_ho.jpg",
         },
         {
           songId: 2,
@@ -22,8 +22,8 @@ export const MusicData = [
           releaseYear: 2019,
           genre: "Romantic",
           duration: "04:30",
-          url: "src/data/songs/khairiyat.mp3",
-          posterUrl: "src/data/images/khairiyat.jpg",
+          url: "./src/data/songs/khairiyat.mp3",
+          posterUrl: "./src/data/images/khairiyat.jpg",
         },
 
         {
@@ -34,8 +34,8 @@ export const MusicData = [
           releaseYear: 2016,
           genre: "Romantic",
           duration: "04:29",
-          url: "src/data/songs/ae_dil_hai_mushkil.mp3",
-          posterUrl: "src/data/images/ae_dil_hai_mushkil.jpg",
+          url: "./src/data/songs/ae_dil_hai_mushkil.mp3",
+          posterUrl: "./src/data/images/ae_dil_hai_mushkil.jpg",
         },
         {
           songId: 4,
@@ -45,8 +45,8 @@ export const MusicData = [
           releaseYear: 2014,
           genre: "Romantic",
           duration: "05:34",
-          url: "src/data/songs/muskurane.mp3",
-          posterUrl: "src/data/images/muskurane.jpg",
+          url: "./src/data/songs/muskurane.mp3",
+          posterUrl: "./src/data/images/muskurane.jpg",
         },
 
         {
@@ -57,8 +57,8 @@ export const MusicData = [
           releaseYear: 2012,
           genre: "Romantic",
           duration: "04:04",
-          url: "src/data/songs/raabta.mp3",
-          posterUrl: "src/data/images/raabta.jpg",
+          url: "./src/data/songs/raabta.mp3",
+          posterUrl: "./src/data/images/raabta.jpg",
         },
 
         {
@@ -69,8 +69,8 @@ export const MusicData = [
           releaseYear: 2012,
           genre: "Item Number",
           duration: "05:01",
-          url: "src/data/songs/chikni_chameli.mp3",
-          posterUrl: "src/data/images/chikni_chameli.jpg",
+          url: "./src/data/songs/chikni_chameli.mp3",
+          posterUrl: "./src/data/images/chikni_chameli.jpg",
         },
         {
           songId: 7,
@@ -80,8 +80,8 @@ export const MusicData = [
           releaseYear: 2013,
           genre: "Romantic",
           duration: "06:30",
-          url: "src/data/songs/sun_raha_hai_na_tu.mp3",
-          posterUrl: "src/data/images/sun_raha_hai_na_tu.jpg",
+          url: "./src/data/songs/sun_raha_hai_na_tu.mp3",
+          posterUrl: "./src/data/images/sun_raha_hai_na_tu.jpg",
         },
         {
           songId: 8,
@@ -91,8 +91,8 @@ export const MusicData = [
           releaseYear: 2013,
           genre: "Romantic",
           duration: "05:37",
-          url: "src/data/songs/har_kisi_ko.mp3",
-          posterUrl: "src/data/images/har_kisi_ko.jpg",
+          url: "./src/data/songs/har_kisi_ko.mp3",
+          posterUrl: "./src/data/images/har_kisi_ko.jpg",
         },
         {
           songId: 9,
@@ -102,8 +102,8 @@ export const MusicData = [
           releaseYear: 2015,
           genre: "Classical",
           duration: "05:40",
-          url: "src/data/songs/deewani_mastani_solo.mp3",
-          posterUrl: "src/data/images/deewani_mastani_solo.jpg",
+          url: "./src/data/songs/deewani_mastani_solo.mp3",
+          posterUrl: "./src/data/images/deewani_mastani_solo.jpg",
         },
         {
           songId: 10,
@@ -113,8 +113,8 @@ export const MusicData = [
           releaseYear: 2017,
           genre: "Romantic",
           duration: "03:19",
-          url: "src/data/songs/thode_badmaash.mp3",
-          posterUrl: "src/data/images/thode_badmaash.jpg",
+          url: "./src/data/songs/thode_badmaash.mp3",
+          posterUrl: "./src/data/images/thode_badmaash.jpg",
         },
         {
           songId: 11,
@@ -124,8 +124,8 @@ export const MusicData = [
           releaseYear: 2013,
           genre: "Folk",
           duration: "04:33",
-          url: "src/data/songs/nagada_sang_dhol.mp3",
-          posterUrl: "src/data/images/nagada_sang_dhol.jpg",
+          url: "./src/data/songs/nagada_sang_dhol.mp3",
+          posterUrl: "./src/data/images/nagada_sang_dhol.jpg",
         },
 
         {
@@ -136,8 +136,8 @@ export const MusicData = [
           releaseYear: 2015,
           genre: "Romantic",
           duration: "03:32",
-          url: "src/data/songs/dheere_dheere_se_meri_zindagi.mp3",
-          posterUrl: "src/data/images/dheere_dheere_se_meri_zindagi.jpeg",
+          url: "./src/data/songs/dheere_dheere_se_meri_zindagi.mp3",
+          posterUrl: "./src/data/images/dheere_dheere_se_meri_zindagi.jpeg",
         },
         {
           songId: 13,
@@ -147,8 +147,8 @@ export const MusicData = [
           releaseYear: 2012,
           genre: "Party",
           duration: "03:46",
-          url: "src/data/songs/payal.mp3",
-          posterUrl: "src/data/images/payal.jpg",
+          url: "./src/data/songs/payal.mp3",
+          posterUrl: "./src/data/images/payal.jpg",
         },
         {
           songId: 14,
@@ -158,8 +158,8 @@ export const MusicData = [
           releaseYear: 2018,
           genre: "Rap",
           duration: "03:19",
-          url: "src/data/songs/millionaire.mp3",
-          posterUrl: "src/data/images/millionaire.jpg",
+          url: "./src/data/songs/millionaire.mp3",
+          posterUrl: "./src/data/images/millionaire.jpg",
         },
         {
           songId: 15,
@@ -169,8 +169,8 @@ export const MusicData = [
           releaseYear: 2011,
           genre: "Party",
           duration: "03:30",
-          url: "src/data/songs/angreji_beat.mp3",
-          posterUrl: "src/data/images/angreji_beat.jpg",
+          url: "./src/data/songs/angreji_beat.mp3",
+          posterUrl: "./src/data/images/angreji_beat.jpg",
         },
         {
           songId: 26,
@@ -180,8 +180,8 @@ export const MusicData = [
           releaseYear: 2013,
           genre: "Pop",
           duration: "02:36",
-          url: "src/data/songs/blue_eyes.mp3",
-          posterUrl: "src/data/images/blue_eyes.jpg",
+          url: "./src/data/songs/blue_eyes.mp3",
+          posterUrl: "./src/data/images/blue_eyes.jpg",
         },
       ],
     },
